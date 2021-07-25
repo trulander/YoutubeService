@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "krugozor/database": "^1.0",
+        "twbs/bootstrap": "4.3.1"
+    }
+}

@@ -1,0 +1,10 @@
+DefaultLanguage ru
+php_value display_errors 1
+php_value display_startup_errors 1
+php_value error_reporting E_ALL
+
+#RewriteEngine On
+#Rewriterule ^10400(.*)$ ./files/output_pdf/citi_gold_ultima/10400$1 [L]
+#Rewriterule ^10410(.*)$ ./files/output_pdf/priority/10410$1 [L]
+#Rewriterule ^10420(.*)$ ./files/output_pdf/citi_private_client/10420$1 [L]
+
